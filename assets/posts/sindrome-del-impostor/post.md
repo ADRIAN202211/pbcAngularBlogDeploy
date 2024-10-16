@@ -1,7 +1,7 @@
 ---
 author: Adrián Mendoza
-title: El sindrome del impostor
-subtitle: 
+title: "El síndrome del impostor"
+subtitle: La lucha interna
 publicationDate: 2024-09-25-19:35:00
 thumbnail: 'https://img.freepik.com/free-photo/hacker-holding-mask_23-2147985365.jpg?size=626&ext=jpg'
 slug: "sindrome-del-impostor"
